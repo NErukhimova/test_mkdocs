@@ -1,5 +1,5 @@
 site_name: My MkDocs Material Documentation
-site_url: https://sitename.example
+site_url: https://mkdocs_test.example
 theme:
   name: material
   font:
